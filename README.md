@@ -3,6 +3,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=protosskai&theme=material-palenight&show_icons=true)
 
-## Welcome to my blog! ➡️➡️ (Click me!)[https://protosskai.github.io/]
+## Welcome to my blog! ➡️➡️ [Click me!](https://protosskai.github.io)
 
 
